@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on PJonathas&#39;s Website</title>
+    <link>https://pjonathas.com/</link>
+    <description>Recent content in Home on PJonathas&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pjonathas.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://pjonathas.com/pages/about/</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pjonathas.com/pages/about/</guid>
+      <description>Christian ✝
+Software Engineer 💻
+Husband 👫 Worship Band Member 🎸
+Sometimes I Play Video Games 🎮</description>
+    </item>
+    
+    <item>
+      <title>What I&#39;ve learned from the book the 7 habits of highly effective people&#34;</title>
+      <link>https://pjonathas.com/posts/7habits/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pjonathas.com/posts/7habits/</guid>
+      <description>I&amp;rsquo;ve recently listened to the audiobook the seven habits of highly effective people on storytel and in my opinion, the lessons that the book teaches are invaluable, what I took away from the book the most is that we are responsible for our lives and despite our pre-dispositions we can fight back and try to become better people, and that&amp;rsquo;s I goal that I&amp;rsquo;ve set for myself just be a better person every day.</description>
+    </item>
+    
+  </channel>
+</rss>
