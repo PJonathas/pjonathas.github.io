@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pjonathas.com/pages/about/</loc>
-    <lastmod>2023-05-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pjonathas.com/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pjonathas.com/tags/non-technical/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pjonathas.com/tags/personal/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pjonathas.com/posts/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pjonathas.com/tags/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pjonathas.com/posts/7habits/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pjonathas.com/pages/about/</loc>
     <lastmod>2023-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pjonathas.com/pages/</loc>
     <lastmod>2023-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pjonathas.com/tags/non-technical/</loc>
-    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pjonathas.com/tags/personal/</loc>
-    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pjonathas.com/posts/</loc>
-    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pjonathas.com/tags/</loc>
-    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pjonathas.com/posts/7habits/</loc>
-    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pjonathas.com/categories/</loc>
   </url>
